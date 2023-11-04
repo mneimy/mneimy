@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mneimy Data scientist consultant 
+- 👋 Hi, I’m @mneimy a Data scientist consultant. Can Help you either with you create your Data strategies to help you control and scale your business.
   
 - 👀 I’m interested in Data Science / Data engineering projects, and everything around IA.  
 
